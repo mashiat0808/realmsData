@@ -1,0 +1,86 @@
+[
+  {
+    "pubkey": "D3wwatCmE1fbHAtHVm551b4VdNugwgbqeBrsw1rPNNdY",
+    "account": {
+      "accountType": 12,
+      "proposal": "B19p9LJHEce555N4ZaXPVQkfEkn4KdgUGbDwZGutEwZZ",
+      "governingTokenOwner": "9V9xnugDuEiHjcGjR3U1D2DhCHhJ8xMJorPXu7s7WqQj",
+      "isRelinquished": true,
+      "voterWeight": "1179078687185",
+      "vote": {
+        "voteType": 1,
+        "deny": true,
+        "veto": false
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  },
+  {
+    "pubkey": "4hgqHMkk38opJg3BxX856dLT4bxv7khEqCePKuQdyd63",
+    "account": {
+      "accountType": 12,
+      "proposal": "B19p9LJHEce555N4ZaXPVQkfEkn4KdgUGbDwZGutEwZZ",
+      "governingTokenOwner": "9WW4oiMyW6A9oP4R8jvxJLMZ3RUss18qsM4yBBHJPj94",
+      "isRelinquished": false,
+      "voterWeight": "17193845135",
+      "vote": {
+        "voteType": 1,
+        "deny": true,
+        "veto": false
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  },
+  {
+    "pubkey": "8ovGobuFjUvQUn36XfPxoJ2TneVUctSd8qbjDULGczxg",
+    "account": {
+      "accountType": 12,
+      "proposal": "B19p9LJHEce555N4ZaXPVQkfEkn4KdgUGbDwZGutEwZZ",
+      "governingTokenOwner": "Qrw6y2DiogvivGah9Dj9BuDu8Cr7qxCRUEh63Z1dmpv",
+      "isRelinquished": true,
+      "voterWeight": "4474762479772",
+      "vote": {
+        "voteType": 1,
+        "deny": true,
+        "veto": false
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  },
+  {
+    "pubkey": "BDig4aZB53McovgKoXgAizM19ymFHSFPK3zPhS9wmtRE",
+    "account": {
+      "accountType": 12,
+      "proposal": "B19p9LJHEce555N4ZaXPVQkfEkn4KdgUGbDwZGutEwZZ",
+      "governingTokenOwner": "dumi2Ka71gqaGdJTcfJ3eYUPw6v46qnUXCXRgERcESe",
+      "isRelinquished": true,
+      "voterWeight": "4050240263583",
+      "vote": {
+        "voteType": 1,
+        "deny": true,
+        "veto": false
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  },
+  {
+    "pubkey": "A3cQoXJRwuf4DxgACaq8XVNqnKVJNGhHNJKcjr5TbFrg",
+    "account": {
+      "accountType": 12,
+      "proposal": "B19p9LJHEce555N4ZaXPVQkfEkn4KdgUGbDwZGutEwZZ",
+      "governingTokenOwner": "EUisgNmineB4u1WA8K1UDCZMGdXjuPjwGQuZq3RtLq1d",
+      "isRelinquished": true,
+      "voterWeight": "3023222000",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  }
+]

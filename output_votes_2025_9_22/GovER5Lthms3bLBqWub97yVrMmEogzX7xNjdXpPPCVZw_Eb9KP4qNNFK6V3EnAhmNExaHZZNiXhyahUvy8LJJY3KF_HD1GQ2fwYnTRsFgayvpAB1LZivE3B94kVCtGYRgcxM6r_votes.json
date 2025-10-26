@@ -1,0 +1,42 @@
+[
+  {
+    "pubkey": "Cb66HP5fpJTcDbQt5JwPUYPKpK8ejmRb5yJuQtD85dT2",
+    "account": {
+      "accountType": 12,
+      "proposal": "HD1GQ2fwYnTRsFgayvpAB1LZivE3B94kVCtGYRgcxM6r",
+      "governingTokenOwner": "NPNixiiGHE59JXptDuHZvJN6Z7g2utdAbjbLufZ6qPA",
+      "isRelinquished": false,
+      "voterWeight": "1",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  },
+  {
+    "pubkey": "BYYwq2HN6NTR1ZEJW7nN59fEzA617BHfut3TVhZw99H7",
+    "account": {
+      "accountType": 12,
+      "proposal": "HD1GQ2fwYnTRsFgayvpAB1LZivE3B94kVCtGYRgcxM6r",
+      "governingTokenOwner": "NPNb8f1FjknE2xARSsGeRyyRmZYv6v5rQBc1VWeyWSB",
+      "isRelinquished": false,
+      "voterWeight": "1",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  }
+]

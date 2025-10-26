@@ -1,0 +1,78 @@
+[
+  {
+    "pubkey": "CUxHNX6NXjsXc3wekLvjXnjaD29zZVL9Px8hKjxn4Cf",
+    "account": {
+      "accountType": 12,
+      "proposal": "59mLMKRUwEYS4cgaVrTwxLJw8w9AD4UxGEC13DYX8UP8",
+      "governingTokenOwner": "3LPh9LN88kxSe3shxLZ2R4jiNmHh2U2F9h9TmVKjc18P",
+      "isRelinquished": true,
+      "voterWeight": "80000000000000",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GqTPL6qRf5aUuqscLh8Rg2HTxPUXfhhAXDptTLhp1t2J"
+  },
+  {
+    "pubkey": "9ZUKsQMzeFPFCsbaNYqcdTbxjMDZ2Lk6PBVPAjoBANGW",
+    "account": {
+      "accountType": 12,
+      "proposal": "59mLMKRUwEYS4cgaVrTwxLJw8w9AD4UxGEC13DYX8UP8",
+      "governingTokenOwner": "HS7rPL72qioyFrHGhn9ccYKzP3aZMyeYBsBqVFBQLKB5",
+      "isRelinquished": true,
+      "voterWeight": "58431388398444",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GqTPL6qRf5aUuqscLh8Rg2HTxPUXfhhAXDptTLhp1t2J"
+  },
+  {
+    "pubkey": "7pwAPTH68pHbTrzvxkmAaEaS3o4dvzy84ytSZTJaKk36",
+    "account": {
+      "accountType": 12,
+      "proposal": "59mLMKRUwEYS4cgaVrTwxLJw8w9AD4UxGEC13DYX8UP8",
+      "governingTokenOwner": "5wZ6N7cDCocEskFdWRo2sU9UmopiekS2naQ8S7gproE8",
+      "isRelinquished": true,
+      "voterWeight": "10218646788432",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GqTPL6qRf5aUuqscLh8Rg2HTxPUXfhhAXDptTLhp1t2J"
+  },
+  {
+    "pubkey": "BwMtSdPnoBUr262ebDvQ5LX7euTez8P64ahHfUZJvUAv",
+    "account": {
+      "accountType": 12,
+      "proposal": "59mLMKRUwEYS4cgaVrTwxLJw8w9AD4UxGEC13DYX8UP8",
+      "governingTokenOwner": "BRd6jDgAnA8THPYk5WydAdUzxBdnsTEXzkkWukhQBbr1",
+      "isRelinquished": false,
+      "voterWeight": "32912273",
+      "vote": {
+        "voteType": 1,
+        "deny": true,
+        "veto": false
+      }
+    },
+    "owner": "GqTPL6qRf5aUuqscLh8Rg2HTxPUXfhhAXDptTLhp1t2J"
+  }
+]

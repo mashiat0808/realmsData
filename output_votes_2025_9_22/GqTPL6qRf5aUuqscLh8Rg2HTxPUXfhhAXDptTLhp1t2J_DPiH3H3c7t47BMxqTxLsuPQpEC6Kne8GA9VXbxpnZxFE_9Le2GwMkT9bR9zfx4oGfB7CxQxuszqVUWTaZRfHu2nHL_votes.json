@@ -1,0 +1,74 @@
+[
+  {
+    "pubkey": "4ESfDjCp47rjydvvPeyPKU6uWh35yhrnj2oGBLZnbiUm",
+    "account": {
+      "accountType": 12,
+      "proposal": "9Le2GwMkT9bR9zfx4oGfB7CxQxuszqVUWTaZRfHu2nHL",
+      "governingTokenOwner": "FveAbrmosaqPwMNYgBxBuXZfmgDvhG4QHh6xJBYghskF",
+      "isRelinquished": true,
+      "voterWeight": "33729975163199",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GqTPL6qRf5aUuqscLh8Rg2HTxPUXfhhAXDptTLhp1t2J"
+  },
+  {
+    "pubkey": "Axdo1cRRmVAr5VvihpiwMgqvC2QmAUquTuAyBgR4Pan6",
+    "account": {
+      "accountType": 12,
+      "proposal": "9Le2GwMkT9bR9zfx4oGfB7CxQxuszqVUWTaZRfHu2nHL",
+      "governingTokenOwner": "5DGbogKUo8haEYC9Tt4FTHE5ue55bjLC4DpSgE1g6yT1",
+      "isRelinquished": true,
+      "voterWeight": "100000000000",
+      "vote": {
+        "voteType": 1,
+        "deny": true,
+        "veto": false
+      }
+    },
+    "owner": "GqTPL6qRf5aUuqscLh8Rg2HTxPUXfhhAXDptTLhp1t2J"
+  },
+  {
+    "pubkey": "9jLdJCKWyqB59r2GXmh8qcD4FyHkxnBP5xw3FswkMr1p",
+    "account": {
+      "accountType": 12,
+      "proposal": "9Le2GwMkT9bR9zfx4oGfB7CxQxuszqVUWTaZRfHu2nHL",
+      "governingTokenOwner": "HS7rPL72qioyFrHGhn9ccYKzP3aZMyeYBsBqVFBQLKB5",
+      "isRelinquished": true,
+      "voterWeight": "53812838047522",
+      "vote": {
+        "voteType": 1,
+        "deny": true,
+        "veto": false
+      }
+    },
+    "owner": "GqTPL6qRf5aUuqscLh8Rg2HTxPUXfhhAXDptTLhp1t2J"
+  },
+  {
+    "pubkey": "9n4BnyLVBtQmJyDs3as3PMcZsB89zjHrj6MY1T3F7Kkr",
+    "account": {
+      "accountType": 12,
+      "proposal": "9Le2GwMkT9bR9zfx4oGfB7CxQxuszqVUWTaZRfHu2nHL",
+      "governingTokenOwner": "52pCCDDTo6uQhENab7rCsqS5ZihDDBmMSTQdCj8QLoea",
+      "isRelinquished": true,
+      "voterWeight": "258062744952",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GqTPL6qRf5aUuqscLh8Rg2HTxPUXfhhAXDptTLhp1t2J"
+  }
+]

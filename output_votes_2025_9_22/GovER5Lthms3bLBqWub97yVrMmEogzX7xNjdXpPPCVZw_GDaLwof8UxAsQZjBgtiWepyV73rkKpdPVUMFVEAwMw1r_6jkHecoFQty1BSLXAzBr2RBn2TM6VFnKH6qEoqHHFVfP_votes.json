@@ -1,0 +1,78 @@
+[
+  {
+    "pubkey": "BJ6F5ya582N2ksr3qEBdJ4R1Lz6EKZJEJiwNDPtHcA4V",
+    "account": {
+      "accountType": 12,
+      "proposal": "6jkHecoFQty1BSLXAzBr2RBn2TM6VFnKH6qEoqHHFVfP",
+      "governingTokenOwner": "FVSjz4TGSgrN1j6BihCyXvUS6FxpnzfEhrVhBvXKkByB",
+      "isRelinquished": false,
+      "voterWeight": "5000000",
+      "vote": {
+        "voteType": 1,
+        "deny": true,
+        "veto": false
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  },
+  {
+    "pubkey": "BWfn7Drh5fexfKATx5L8vwrWkHBRCFGDY562aagWkGqD",
+    "account": {
+      "accountType": 12,
+      "proposal": "6jkHecoFQty1BSLXAzBr2RBn2TM6VFnKH6qEoqHHFVfP",
+      "governingTokenOwner": "9trHaN6pVZBZpwaaVm9h4xKs1uGFQjwgD2AAanvun7WZ",
+      "isRelinquished": true,
+      "voterWeight": "168000000",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  },
+  {
+    "pubkey": "FeyLEBFVu1t7sLtAVgNsBBmQC3DcBF1d1WsYdhvDvEzn",
+    "account": {
+      "accountType": 12,
+      "proposal": "6jkHecoFQty1BSLXAzBr2RBn2TM6VFnKH6qEoqHHFVfP",
+      "governingTokenOwner": "FB8WmADmsmiGS6Siv57kkmrtvC9dM8x7uDJ8hYjU8CL9",
+      "isRelinquished": false,
+      "voterWeight": "45000000",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  },
+  {
+    "pubkey": "A3TauWVcHCWNPE9RzVbepsTgvQakeCsJnsDfc2QQvvvW",
+    "account": {
+      "accountType": 12,
+      "proposal": "6jkHecoFQty1BSLXAzBr2RBn2TM6VFnKH6qEoqHHFVfP",
+      "governingTokenOwner": "D5UVbZYfhP2aXoAwP1kAbhRrJN5XZa9EB6UnPEFuVw4H",
+      "isRelinquished": false,
+      "voterWeight": "97000000",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "pubkey": "5yMznE7Lbg93Ft5ic4GAhpQgnBVo3aorEqZdgpj9ZvYx",
+    "account": {
+      "accountType": 12,
+      "proposal": "DrbM7KvwoS9xY8QeiktY6bKHGpGztBXpWkvA337p8E8W",
+      "governingTokenOwner": "FveAbrmosaqPwMNYgBxBuXZfmgDvhG4QHh6xJBYghskF",
+      "isRelinquished": true,
+      "voterWeight": "31564305924234",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GqTPL6qRf5aUuqscLh8Rg2HTxPUXfhhAXDptTLhp1t2J"
+  },
+  {
+    "pubkey": "FjK9unkZnhA1T8NtRPudFzENXjLo3m4GdETnJ1WRpum2",
+    "account": {
+      "accountType": 12,
+      "proposal": "DrbM7KvwoS9xY8QeiktY6bKHGpGztBXpWkvA337p8E8W",
+      "governingTokenOwner": "Fc5Qw4Xwj5ZJJpxNvjmHKWGM83TRwu8sBtPvrEu8zBJ2",
+      "isRelinquished": true,
+      "voterWeight": "69354826228",
+      "vote": {
+        "voteType": 1,
+        "deny": true,
+        "veto": false
+      }
+    },
+    "owner": "GqTPL6qRf5aUuqscLh8Rg2HTxPUXfhhAXDptTLhp1t2J"
+  },
+  {
+    "pubkey": "QyBBLH3bTUi2Eq6HqKY6HLJ3g4na8Wg8kJeFqS21aLo",
+    "account": {
+      "accountType": 12,
+      "proposal": "DrbM7KvwoS9xY8QeiktY6bKHGpGztBXpWkvA337p8E8W",
+      "governingTokenOwner": "7BmonkQuPx35zoAprwWvnp9NZn9dcoBCS3EEzkKVwe5B",
+      "isRelinquished": true,
+      "voterWeight": "32535329494862",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GqTPL6qRf5aUuqscLh8Rg2HTxPUXfhhAXDptTLhp1t2J"
+  },
+  {
+    "pubkey": "7BM73hiqQXd1gdxos6PmeUGmTKMEbpGX7hMMzEvCqsS7",
+    "account": {
+      "accountType": 12,
+      "proposal": "DrbM7KvwoS9xY8QeiktY6bKHGpGztBXpWkvA337p8E8W",
+      "governingTokenOwner": "3LPh9LN88kxSe3shxLZ2R4jiNmHh2U2F9h9TmVKjc18P",
+      "isRelinquished": true,
+      "voterWeight": "80000000000000",
+      "vote": {
+        "voteType": 1,
+        "deny": true,
+        "veto": false
+      }
+    },
+    "owner": "GqTPL6qRf5aUuqscLh8Rg2HTxPUXfhhAXDptTLhp1t2J"
+  }
+]

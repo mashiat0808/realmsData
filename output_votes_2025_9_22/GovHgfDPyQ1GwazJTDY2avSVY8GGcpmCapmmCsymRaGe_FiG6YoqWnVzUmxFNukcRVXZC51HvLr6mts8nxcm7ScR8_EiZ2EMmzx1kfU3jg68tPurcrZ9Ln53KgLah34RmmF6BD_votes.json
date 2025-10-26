@@ -1,0 +1,62 @@
+[
+  {
+    "pubkey": "3dkUUnEbRGFLfvMTzm3ZnY42yPQSc7PA7T3o74489UV8",
+    "account": {
+      "accountType": 12,
+      "proposal": "EiZ2EMmzx1kfU3jg68tPurcrZ9Ln53KgLah34RmmF6BD",
+      "governingTokenOwner": "DMRJobdXwtYdru2oPVQZdKQoGo1vDxke3ByzEg8kiKv",
+      "isRelinquished": false,
+      "voterWeight": "1",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GovHgfDPyQ1GwazJTDY2avSVY8GGcpmCapmmCsymRaGe"
+  },
+  {
+    "pubkey": "FXkB64YEJMS1iUzKomdYLF57BQzhBwnYbZ7W9ypD8FhE",
+    "account": {
+      "accountType": 12,
+      "proposal": "EiZ2EMmzx1kfU3jg68tPurcrZ9Ln53KgLah34RmmF6BD",
+      "governingTokenOwner": "QVeXdzcQNAeh2RSLcJMJLCoSfJwj7xWW6Z1mQiJH3pb",
+      "isRelinquished": true,
+      "voterWeight": "1",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GovHgfDPyQ1GwazJTDY2avSVY8GGcpmCapmmCsymRaGe"
+  },
+  {
+    "pubkey": "GM6W9yTd3SHGWDDzgYakC2cGqzjZgazHkCc6JNhcAuNp",
+    "account": {
+      "accountType": 12,
+      "proposal": "EiZ2EMmzx1kfU3jg68tPurcrZ9Ln53KgLah34RmmF6BD",
+      "governingTokenOwner": "Hgtc4NFfdrhLEhaS93dc4ki9ewpHNjRpSKtxHK69RcJM",
+      "isRelinquished": false,
+      "voterWeight": "1",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GovHgfDPyQ1GwazJTDY2avSVY8GGcpmCapmmCsymRaGe"
+  }
+]

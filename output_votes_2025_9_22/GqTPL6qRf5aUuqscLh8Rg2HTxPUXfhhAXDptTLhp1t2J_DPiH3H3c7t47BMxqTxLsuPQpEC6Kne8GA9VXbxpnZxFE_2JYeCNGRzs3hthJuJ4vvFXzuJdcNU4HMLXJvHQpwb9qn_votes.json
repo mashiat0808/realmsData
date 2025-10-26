@@ -1,0 +1,78 @@
+[
+  {
+    "pubkey": "FpbzqizPfxDxkFa5m2rdaDDDoWwNk66CL8452j4hNYrB",
+    "account": {
+      "accountType": 12,
+      "proposal": "2JYeCNGRzs3hthJuJ4vvFXzuJdcNU4HMLXJvHQpwb9qn",
+      "governingTokenOwner": "3LPh9LN88kxSe3shxLZ2R4jiNmHh2U2F9h9TmVKjc18P",
+      "isRelinquished": true,
+      "voterWeight": "80000000000000",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GqTPL6qRf5aUuqscLh8Rg2HTxPUXfhhAXDptTLhp1t2J"
+  },
+  {
+    "pubkey": "AiTyrdHPsXZE8zv8NryFuYiDrpX7VWKkgkYmrUE4vkuu",
+    "account": {
+      "accountType": 12,
+      "proposal": "2JYeCNGRzs3hthJuJ4vvFXzuJdcNU4HMLXJvHQpwb9qn",
+      "governingTokenOwner": "HS7rPL72qioyFrHGhn9ccYKzP3aZMyeYBsBqVFBQLKB5",
+      "isRelinquished": true,
+      "voterWeight": "72676181716134",
+      "vote": {
+        "voteType": 1,
+        "deny": true,
+        "veto": false
+      }
+    },
+    "owner": "GqTPL6qRf5aUuqscLh8Rg2HTxPUXfhhAXDptTLhp1t2J"
+  },
+  {
+    "pubkey": "6QTTWeXwD6ThTVqUQF5CVx6X6msAAHUQLUcLeEY5PgD1",
+    "account": {
+      "accountType": 12,
+      "proposal": "2JYeCNGRzs3hthJuJ4vvFXzuJdcNU4HMLXJvHQpwb9qn",
+      "governingTokenOwner": "4WKYJnanhZy6zFLGcxEBcTEnCSRziSKbPKHEUCpx3x6X",
+      "isRelinquished": true,
+      "voterWeight": "37442222",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GqTPL6qRf5aUuqscLh8Rg2HTxPUXfhhAXDptTLhp1t2J"
+  },
+  {
+    "pubkey": "5y3HBbZ47wCTtVKtbLV5rfzXDUuyJHya1YowjgLqEzGR",
+    "account": {
+      "accountType": 12,
+      "proposal": "2JYeCNGRzs3hthJuJ4vvFXzuJdcNU4HMLXJvHQpwb9qn",
+      "governingTokenOwner": "HPhxsnhyfxj2u3HGodwjFhMcJo2EuUsCpfG6SfZ8L3e1",
+      "isRelinquished": true,
+      "voterWeight": "226498461039",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GqTPL6qRf5aUuqscLh8Rg2HTxPUXfhhAXDptTLhp1t2J"
+  }
+]

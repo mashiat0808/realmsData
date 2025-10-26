@@ -1,0 +1,78 @@
+[
+  {
+    "pubkey": "5UAKNcnstxxLeGoArPt5ztNgVDTRS6KjSpy1eTWD8V5a",
+    "account": {
+      "accountType": 12,
+      "proposal": "Ar9JLkmxqn4LhCjDodDmfioKjqT2njdp1QHsApGjt3Sb",
+      "governingTokenOwner": "24ufyLS4jMkAxoUk8pPgWnournhPVfoM2Vm5PdpVJS4r",
+      "isRelinquished": false,
+      "voterWeight": "1",
+      "vote": {
+        "voteType": 1,
+        "deny": true,
+        "veto": false
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  },
+  {
+    "pubkey": "3CuB7v6g63eU3US2d3PKL7YnxYUUEQFqmZJ9ofZJDLnh",
+    "account": {
+      "accountType": 12,
+      "proposal": "Ar9JLkmxqn4LhCjDodDmfioKjqT2njdp1QHsApGjt3Sb",
+      "governingTokenOwner": "2CUy34SwGVDX6xWWmvj6yHfYiLCsyb1YjMhMWeiEhsS2",
+      "isRelinquished": false,
+      "voterWeight": "1",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  },
+  {
+    "pubkey": "Cj7zJ1BZhYGo8PYpMJ3FP3LeMTnqRwC1EfGSGS4endEh",
+    "account": {
+      "accountType": 12,
+      "proposal": "Ar9JLkmxqn4LhCjDodDmfioKjqT2njdp1QHsApGjt3Sb",
+      "governingTokenOwner": "CMshtiAUKLCVcRD3WC1YPEJU5NgJF8g2SHmZ8YhNQDa9",
+      "isRelinquished": false,
+      "voterWeight": "1",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  },
+  {
+    "pubkey": "Q5gCzw7V9S9gafZ9RwgiuPfRSvaTJ5M1uRGmDyqeV7K",
+    "account": {
+      "accountType": 12,
+      "proposal": "Ar9JLkmxqn4LhCjDodDmfioKjqT2njdp1QHsApGjt3Sb",
+      "governingTokenOwner": "4ZT8BzjxGyaLmQx2aHcZycbyaisuVdfrRgkVTbYAfbfD",
+      "isRelinquished": false,
+      "voterWeight": "1",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  }
+]

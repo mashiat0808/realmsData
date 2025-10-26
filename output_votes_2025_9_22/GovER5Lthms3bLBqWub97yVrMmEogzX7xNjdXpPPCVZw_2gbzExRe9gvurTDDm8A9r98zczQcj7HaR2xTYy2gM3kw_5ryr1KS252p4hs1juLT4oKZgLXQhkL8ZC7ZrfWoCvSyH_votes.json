@@ -1,0 +1,74 @@
+[
+  {
+    "pubkey": "Zj9jFg3x1uqWNqRRUriu6hGEdKysz4ts8743jjnFttG",
+    "account": {
+      "accountType": 12,
+      "proposal": "5ryr1KS252p4hs1juLT4oKZgLXQhkL8ZC7ZrfWoCvSyH",
+      "governingTokenOwner": "61w6KSfvBpEdYgyiqRVoNU9e5kDcXMzaLUr5HASeJjhp",
+      "isRelinquished": false,
+      "voterWeight": "20000000",
+      "vote": {
+        "voteType": 1,
+        "deny": true,
+        "veto": false
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  },
+  {
+    "pubkey": "5rHtWG4XF7GAGwQQvzMWBhiSscGJHxqPCy1GDRWugupi",
+    "account": {
+      "accountType": 12,
+      "proposal": "5ryr1KS252p4hs1juLT4oKZgLXQhkL8ZC7ZrfWoCvSyH",
+      "governingTokenOwner": "CgWavADPZBXYw5WZwe5uA7NQZJAQwB7WFQuGaEADtRHE",
+      "isRelinquished": false,
+      "voterWeight": "6000000",
+      "vote": {
+        "voteType": 1,
+        "deny": true,
+        "veto": false
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  },
+  {
+    "pubkey": "DQVnbEXdcXA5FH7D86eVoUqcyTc46TpZYGyYfWBHwWVU",
+    "account": {
+      "accountType": 12,
+      "proposal": "5ryr1KS252p4hs1juLT4oKZgLXQhkL8ZC7ZrfWoCvSyH",
+      "governingTokenOwner": "3PKhzE9wuEkGPHHu2sNCvG86xNtDJduAcyBPXpE6cSNt",
+      "isRelinquished": false,
+      "voterWeight": "1000000",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  },
+  {
+    "pubkey": "8eqcZyAfPeTkbseRje58MzMeKPMu8j5SdAWNvRR8g4PJ",
+    "account": {
+      "accountType": 12,
+      "proposal": "5ryr1KS252p4hs1juLT4oKZgLXQhkL8ZC7ZrfWoCvSyH",
+      "governingTokenOwner": "ASF3M9SXSmuobEFg1uk2P6agRdkMWSeoCYkZu17rtnMt",
+      "isRelinquished": false,
+      "voterWeight": "11000000",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  }
+]

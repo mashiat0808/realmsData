@@ -1,0 +1,78 @@
+[
+  {
+    "pubkey": "9MRTYNc8WH7Bfw9dkFiswnj2zuNnNaMG1pTrEtFeUwMV",
+    "account": {
+      "accountType": 12,
+      "proposal": "7xyUpxCs5ncPa9i23CuNL5WahdnJzjA6AtVakJ3MCh6E",
+      "governingTokenOwner": "bgrfDSgMajwTvVXVw4xhAfUeMufuupREK6maYqHyzq2",
+      "isRelinquished": true,
+      "voterWeight": "70000000",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GqTPL6qRf5aUuqscLh8Rg2HTxPUXfhhAXDptTLhp1t2J"
+  },
+  {
+    "pubkey": "AVFLwGcN3CrWtHZMEoYV9vWx1eHt1rgpYz8LWm4hGM6h",
+    "account": {
+      "accountType": 12,
+      "proposal": "7xyUpxCs5ncPa9i23CuNL5WahdnJzjA6AtVakJ3MCh6E",
+      "governingTokenOwner": "ZkLUb3yJSUBBXmHbc9FCB6MVTTwDn1Fw6MhZ68A6yLn",
+      "isRelinquished": true,
+      "voterWeight": "255555550000",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GqTPL6qRf5aUuqscLh8Rg2HTxPUXfhhAXDptTLhp1t2J"
+  },
+  {
+    "pubkey": "E1sVnq5hcDMfHmC9yU1JsfGR5U4eq42BsP3pU2hfLStJ",
+    "account": {
+      "accountType": 12,
+      "proposal": "7xyUpxCs5ncPa9i23CuNL5WahdnJzjA6AtVakJ3MCh6E",
+      "governingTokenOwner": "3LPh9LN88kxSe3shxLZ2R4jiNmHh2U2F9h9TmVKjc18P",
+      "isRelinquished": true,
+      "voterWeight": "80000000000000",
+      "vote": {
+        "voteType": 1,
+        "deny": true,
+        "veto": false
+      }
+    },
+    "owner": "GqTPL6qRf5aUuqscLh8Rg2HTxPUXfhhAXDptTLhp1t2J"
+  },
+  {
+    "pubkey": "H9KgfxuWTzb72s5r8ettSPr8CtAGbWfpYRzdj3zsKZMf",
+    "account": {
+      "accountType": 12,
+      "proposal": "7xyUpxCs5ncPa9i23CuNL5WahdnJzjA6AtVakJ3MCh6E",
+      "governingTokenOwner": "CHa7Dhqn6cfwHsDHVTiRfTGAjTkxcZc7nXnox6UELdKC",
+      "isRelinquished": false,
+      "voterWeight": "1119576911",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GqTPL6qRf5aUuqscLh8Rg2HTxPUXfhhAXDptTLhp1t2J"
+  }
+]

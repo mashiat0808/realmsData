@@ -1,0 +1,74 @@
+[
+  {
+    "pubkey": "8tCidZPGd8LitgvW1BA8XYW2voVp9eF97hASuEchisQa",
+    "account": {
+      "accountType": 12,
+      "proposal": "EwoNQ4WmyvGeNv7jxjP91ijKfDhaPrUvt88ZYsUpgDTd",
+      "governingTokenOwner": "AEMDocDf1WexMhMgCNEX24Ubm2NNs9F9bhCuLSYv8v2k",
+      "isRelinquished": true,
+      "voterWeight": "1001389205",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GqTPL6qRf5aUuqscLh8Rg2HTxPUXfhhAXDptTLhp1t2J"
+  },
+  {
+    "pubkey": "BUbdmoP1nXXHSjSZiy28ZUN1Jxe8WuUcgMh3bPhuVTmF",
+    "account": {
+      "accountType": 12,
+      "proposal": "EwoNQ4WmyvGeNv7jxjP91ijKfDhaPrUvt88ZYsUpgDTd",
+      "governingTokenOwner": "7bqM8DahM5YBCA25yfswX7PsdvjngiVf2tLGPtuqsR8f",
+      "isRelinquished": true,
+      "voterWeight": "4692850168336",
+      "vote": {
+        "voteType": 1,
+        "deny": true,
+        "veto": false
+      }
+    },
+    "owner": "GqTPL6qRf5aUuqscLh8Rg2HTxPUXfhhAXDptTLhp1t2J"
+  },
+  {
+    "pubkey": "44LKnGN5huPwA74W3JiHoF84e6XbrQv4Mbr3ct5QHode",
+    "account": {
+      "accountType": 12,
+      "proposal": "EwoNQ4WmyvGeNv7jxjP91ijKfDhaPrUvt88ZYsUpgDTd",
+      "governingTokenOwner": "Gfa3euq4fsbf3um5TNVcGd7N3vFK5K25F7djjjuGFQjH",
+      "isRelinquished": true,
+      "voterWeight": "200000000000",
+      "vote": {
+        "voteType": 1,
+        "deny": true,
+        "veto": false
+      }
+    },
+    "owner": "GqTPL6qRf5aUuqscLh8Rg2HTxPUXfhhAXDptTLhp1t2J"
+  },
+  {
+    "pubkey": "J7JQ7Jm7K5FGpTA9CNQxWzpSsw36C2ziMopmoB5U2znA",
+    "account": {
+      "accountType": 12,
+      "proposal": "EwoNQ4WmyvGeNv7jxjP91ijKfDhaPrUvt88ZYsUpgDTd",
+      "governingTokenOwner": "Hzf61PRkZGpmTBUo8KJVEBh6d9MpcUTCQJdvQWy58iX5",
+      "isRelinquished": true,
+      "voterWeight": "24828537528",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GqTPL6qRf5aUuqscLh8Rg2HTxPUXfhhAXDptTLhp1t2J"
+  }
+]

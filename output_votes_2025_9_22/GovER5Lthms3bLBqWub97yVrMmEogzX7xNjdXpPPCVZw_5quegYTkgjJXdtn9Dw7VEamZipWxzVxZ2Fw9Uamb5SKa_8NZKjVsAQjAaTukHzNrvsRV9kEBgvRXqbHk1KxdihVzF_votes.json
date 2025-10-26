@@ -1,0 +1,82 @@
+[
+  {
+    "pubkey": "G294QDpjwkuX4XUXfyxewezUXSiww185iU5C6B1958C3",
+    "account": {
+      "accountType": 12,
+      "proposal": "8NZKjVsAQjAaTukHzNrvsRV9kEBgvRXqbHk1KxdihVzF",
+      "governingTokenOwner": "8wahGZAcBxR23JkNE8JihHyjKkvu4hh3tCirgtA9zdB1",
+      "isRelinquished": true,
+      "voterWeight": "1",
+      "vote": {
+        "voteType": 1,
+        "deny": true,
+        "veto": false
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  },
+  {
+    "pubkey": "Aq4SpdX1sqv2xvEfjt8YAwzvMPGf5yJwjKbV2Acpp3Gy",
+    "account": {
+      "accountType": 12,
+      "proposal": "8NZKjVsAQjAaTukHzNrvsRV9kEBgvRXqbHk1KxdihVzF",
+      "governingTokenOwner": "8wahGZAcBxR23JkNE8JihHyjKkvu4hh3tCirgtA9zdB1",
+      "isRelinquished": true,
+      "voterWeight": "5000100000000",
+      "vote": {
+        "voteType": 3,
+        "deny": false,
+        "veto": true
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  },
+  {
+    "pubkey": "HrBcSTuaSwkvsoqcCNdTJVT3VYSoZKny9a1qjeg3QkiB",
+    "account": {
+      "accountType": 12,
+      "proposal": "8NZKjVsAQjAaTukHzNrvsRV9kEBgvRXqbHk1KxdihVzF",
+      "governingTokenOwner": "AKn5aqUgoM6tCDeiD6xztQ7N89L5JXc6NnRQ1Qrv5ccH",
+      "isRelinquished": true,
+      "voterWeight": "800000000000",
+      "vote": {
+        "voteType": 3,
+        "deny": false,
+        "veto": true
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  },
+  {
+    "pubkey": "Emu6eWr1zVU2c5KYM4jCiV6ATm85zuCHSCLJhGvLjQa4",
+    "account": {
+      "accountType": 12,
+      "proposal": "8NZKjVsAQjAaTukHzNrvsRV9kEBgvRXqbHk1KxdihVzF",
+      "governingTokenOwner": "GDTVUJcGxVyDsUGctCNihrv4xbJxb5e6JMZYuGvjnMrj",
+      "isRelinquished": false,
+      "voterWeight": "1",
+      "vote": {
+        "voteType": 1,
+        "deny": true,
+        "veto": false
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  },
+  {
+    "pubkey": "xudpo8j8ZXYPbDySv5YCbHAt1797fLWmBuoySajWWLM",
+    "account": {
+      "accountType": 12,
+      "proposal": "8NZKjVsAQjAaTukHzNrvsRV9kEBgvRXqbHk1KxdihVzF",
+      "governingTokenOwner": "GDTVUJcGxVyDsUGctCNihrv4xbJxb5e6JMZYuGvjnMrj",
+      "isRelinquished": true,
+      "voterWeight": "5000079942935",
+      "vote": {
+        "voteType": 3,
+        "deny": false,
+        "veto": true
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  }
+]

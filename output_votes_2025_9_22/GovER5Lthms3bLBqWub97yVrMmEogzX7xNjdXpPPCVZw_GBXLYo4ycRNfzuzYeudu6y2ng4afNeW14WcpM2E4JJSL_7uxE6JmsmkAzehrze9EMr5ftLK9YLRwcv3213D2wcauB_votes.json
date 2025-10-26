@@ -1,0 +1,82 @@
+[
+  {
+    "pubkey": "4DktTxo7nTiFFeiTKtQP7vmdwBjLmYgyYxragUUXvPCX",
+    "account": {
+      "accountType": 12,
+      "proposal": "7uxE6JmsmkAzehrze9EMr5ftLK9YLRwcv3213D2wcauB",
+      "governingTokenOwner": "sjiQ7dDVKgCM2gTWQQbVkFEeeJRGd37NKjKvZebrGs7",
+      "isRelinquished": false,
+      "voterWeight": "2000000000",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  },
+  {
+    "pubkey": "BX2fk8xqz1GATbioGBTgMHetRzaNmYE5TnfKK6gB3hMF",
+    "account": {
+      "accountType": 12,
+      "proposal": "7uxE6JmsmkAzehrze9EMr5ftLK9YLRwcv3213D2wcauB",
+      "governingTokenOwner": "WabxR2gcdMgovS6Uo5JD4Cv9me7uExRyaH4QDKrp64b",
+      "isRelinquished": true,
+      "voterWeight": "2000000000",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  },
+  {
+    "pubkey": "7sYTGL4bqzfuNXLPgutE1evUaWws9NY5gDgjobx2EJha",
+    "account": {
+      "accountType": 12,
+      "proposal": "7uxE6JmsmkAzehrze9EMr5ftLK9YLRwcv3213D2wcauB",
+      "governingTokenOwner": "A4PzGUimdCMv8xvT5gK2fxonXqMMayDm3eSXRvXZhjzU",
+      "isRelinquished": true,
+      "voterWeight": "2000000000",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  },
+  {
+    "pubkey": "CnJzK1gKUyerr5tGtku4rqPYAAXu5mcmsw7FDbq68uFY",
+    "account": {
+      "accountType": 12,
+      "proposal": "7uxE6JmsmkAzehrze9EMr5ftLK9YLRwcv3213D2wcauB",
+      "governingTokenOwner": "6cGTLr9bTCYis6KjsuZPQS7LrcPjyjibr9gFk2JH65Mn",
+      "isRelinquished": false,
+      "voterWeight": "2000000000",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  }
+]

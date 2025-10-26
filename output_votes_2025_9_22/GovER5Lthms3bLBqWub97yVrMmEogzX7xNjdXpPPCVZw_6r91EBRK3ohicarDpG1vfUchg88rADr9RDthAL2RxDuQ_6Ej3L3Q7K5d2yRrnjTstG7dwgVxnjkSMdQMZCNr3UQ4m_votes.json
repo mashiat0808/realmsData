@@ -1,0 +1,70 @@
+[
+  {
+    "pubkey": "DL6ytzqw42T5GwecZ2GBiRxxtzpfd3wLoyU5rGZYYXJh",
+    "account": {
+      "accountType": 12,
+      "proposal": "6Ej3L3Q7K5d2yRrnjTstG7dwgVxnjkSMdQMZCNr3UQ4m",
+      "governingTokenOwner": "24ufyLS4jMkAxoUk8pPgWnournhPVfoM2Vm5PdpVJS4r",
+      "isRelinquished": false,
+      "voterWeight": "1",
+      "vote": {
+        "voteType": 1,
+        "deny": true,
+        "veto": false
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  },
+  {
+    "pubkey": "ENeop6rV7ShsGC2cHjwyfauKeE4VXKur48qcXVUhEbDx",
+    "account": {
+      "accountType": 12,
+      "proposal": "6Ej3L3Q7K5d2yRrnjTstG7dwgVxnjkSMdQMZCNr3UQ4m",
+      "governingTokenOwner": "2CUy34SwGVDX6xWWmvj6yHfYiLCsyb1YjMhMWeiEhsS2",
+      "isRelinquished": false,
+      "voterWeight": "1",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  },
+  {
+    "pubkey": "9jcvXoGQ83jQ84iDLRK6e3UPyebQ8yNiqA1VB9BkapQn",
+    "account": {
+      "accountType": 12,
+      "proposal": "6Ej3L3Q7K5d2yRrnjTstG7dwgVxnjkSMdQMZCNr3UQ4m",
+      "governingTokenOwner": "CMshtiAUKLCVcRD3WC1YPEJU5NgJF8g2SHmZ8YhNQDa9",
+      "isRelinquished": false,
+      "voterWeight": "1",
+      "vote": {
+        "voteType": 1,
+        "deny": true,
+        "veto": false
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  },
+  {
+    "pubkey": "A14jTYon9qLnyQj21xBhvc4V7Kzr2sfmZpSvXKE4oFUR",
+    "account": {
+      "accountType": 12,
+      "proposal": "6Ej3L3Q7K5d2yRrnjTstG7dwgVxnjkSMdQMZCNr3UQ4m",
+      "governingTokenOwner": "5CSkcL2wmiQ45XuLfnykU1Zu7E3A6RvbS11xg2y5ykcr",
+      "isRelinquished": false,
+      "voterWeight": "1",
+      "vote": {
+        "voteType": 1,
+        "deny": true,
+        "veto": false
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  }
+]

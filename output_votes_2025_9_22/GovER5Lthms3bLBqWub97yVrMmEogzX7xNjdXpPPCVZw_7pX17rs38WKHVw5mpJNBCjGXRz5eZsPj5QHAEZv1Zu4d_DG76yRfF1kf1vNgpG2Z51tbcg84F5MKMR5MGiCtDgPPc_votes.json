@@ -1,0 +1,70 @@
+[
+  {
+    "pubkey": "3Q5MEJxPnBuBijzRccGGxfM2bXvVpE3sTx9NC8DoGjAQ",
+    "account": {
+      "accountType": 12,
+      "proposal": "DG76yRfF1kf1vNgpG2Z51tbcg84F5MKMR5MGiCtDgPPc",
+      "governingTokenOwner": "EEiTKj7gwtzWjbXrrgaeAJocM6H7yEDNAm5vSGFdXjnD",
+      "isRelinquished": true,
+      "voterWeight": "503026323",
+      "vote": {
+        "voteType": 1,
+        "deny": true,
+        "veto": false
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  },
+  {
+    "pubkey": "74BbN7n8L3EvFbnozEzgpo7bHuXVhQFCwLMoWe8m8UDt",
+    "account": {
+      "accountType": 12,
+      "proposal": "DG76yRfF1kf1vNgpG2Z51tbcg84F5MKMR5MGiCtDgPPc",
+      "governingTokenOwner": "AzzTqxHhkKuRRmg6S9mjcK5R8SdeEnQoMSuNHdSVeZoG",
+      "isRelinquished": true,
+      "voterWeight": "2192640909",
+      "vote": {
+        "voteType": 1,
+        "deny": true,
+        "veto": false
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  },
+  {
+    "pubkey": "39GV6qy5AjLEpCQWzv7oJ71bs2zPDU1ivqHbMDh7S1VC",
+    "account": {
+      "accountType": 12,
+      "proposal": "DG76yRfF1kf1vNgpG2Z51tbcg84F5MKMR5MGiCtDgPPc",
+      "governingTokenOwner": "2MpBTSfGCQzdbMXauvcfFkhmsA5Gp9sGaxLfuRVWyf9i",
+      "isRelinquished": false,
+      "voterWeight": "1058947737",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  },
+  {
+    "pubkey": "4VkzgJ4yRvkmdjKqQCbrAJpoPDrucDL54jmhgULWL1H3",
+    "account": {
+      "accountType": 12,
+      "proposal": "DG76yRfF1kf1vNgpG2Z51tbcg84F5MKMR5MGiCtDgPPc",
+      "governingTokenOwner": "EVCePKUY1k2bY2WPZG9k4CeLKmop4GFZm5pcjSqu3o3u",
+      "isRelinquished": true,
+      "voterWeight": "871267149",
+      "vote": {
+        "voteType": 1,
+        "deny": true,
+        "veto": false
+      }
+    },
+    "owner": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "pubkey": "DmrjNiqPxktwWQMAPUJruRKN3dVKCGFU6X1zM8ToU6kf",
+    "account": {
+      "accountType": 12,
+      "proposal": "3A8ueVewwsHVJr1CKwagN8AE9ugoS8o2ZgGSquV1fyQW",
+      "governingTokenOwner": "FhBK3sYmZ6kLptsdSnt28nVZDSgpV7H5iRUceK7Ca8nX",
+      "isRelinquished": false,
+      "voterWeight": "1",
+      "vote": {
+        "voteType": 3,
+        "deny": false,
+        "veto": true
+      }
+    },
+    "owner": "GovHgfDPyQ1GwazJTDY2avSVY8GGcpmCapmmCsymRaGe"
+  },
+  {
+    "pubkey": "Ah8B6CUV3eq8svLixcoscZcDkzfNwWQcuL9HEx69hqKL",
+    "account": {
+      "accountType": 12,
+      "proposal": "3A8ueVewwsHVJr1CKwagN8AE9ugoS8o2ZgGSquV1fyQW",
+      "governingTokenOwner": "DMRJobdXwtYdru2oPVQZdKQoGo1vDxke3ByzEg8kiKv",
+      "isRelinquished": false,
+      "voterWeight": "1",
+      "vote": {
+        "voteType": 3,
+        "deny": false,
+        "veto": true
+      }
+    },
+    "owner": "GovHgfDPyQ1GwazJTDY2avSVY8GGcpmCapmmCsymRaGe"
+  },
+  {
+    "pubkey": "2t5ZBJZB5oNVC64tHkzcJB6yPdBYUgComAJtFfkUzoXZ",
+    "account": {
+      "accountType": 12,
+      "proposal": "3A8ueVewwsHVJr1CKwagN8AE9ugoS8o2ZgGSquV1fyQW",
+      "governingTokenOwner": "DSXL8vAV6Pcb5W2SGFfeYrx6LXsEDBrY4kn8hx362GYt",
+      "isRelinquished": true,
+      "voterWeight": "10003729951396",
+      "vote": {
+        "voteType": 0,
+        "approveChoices": [
+          {
+            "rank": 0,
+            "weightPercentage": 100
+          }
+        ]
+      }
+    },
+    "owner": "GovHgfDPyQ1GwazJTDY2avSVY8GGcpmCapmmCsymRaGe"
+  },
+  {
+    "pubkey": "GXTB3rYh278FG5Z4ZEDk8f6RnnuyV4veXYaBnBiLy7Ha",
+    "account": {
+      "accountType": 12,
+      "proposal": "3A8ueVewwsHVJr1CKwagN8AE9ugoS8o2ZgGSquV1fyQW",
+      "governingTokenOwner": "Hgtc4NFfdrhLEhaS93dc4ki9ewpHNjRpSKtxHK69RcJM",
+      "isRelinquished": false,
+      "voterWeight": "1",
+      "vote": {
+        "voteType": 3,
+        "deny": false,
+        "veto": true
+      }
+    },
+    "owner": "GovHgfDPyQ1GwazJTDY2avSVY8GGcpmCapmmCsymRaGe"
+  }
+]
