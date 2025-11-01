@@ -36,10 +36,11 @@ The repository enables the collection of **deployment**, **proposal**, and **vot
 
 Clone this repository and install dependencies:
 
-```bash
+```
 git clone https://github.com/mashiat0808/realmsData.git
 cd realmsData/node
 npm install
+```
 
 🚀 Usage
 The data retrieval process happens in three sequential steps.
