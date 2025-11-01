@@ -87,8 +87,7 @@ Each record links a proposal, voter, voteType, and voterWeight.
 🗂 Example Data Structure
 Deployment Example
 
-json
-Copy code
+```
 {
   "pubkey": "4BNkheiMATVVcyJnGpjPbbPvFuKMx3C...",
   "account": {
@@ -97,10 +96,12 @@ Copy code
     "votingProposalCount": 1
   }
 }
+```
+
+
 Proposal Example
 
-json
-Copy code
+```
 {
   "pubkey": "2PhgWqv97kAs9YgCUC5wE7kxj9CmVcqG9eirizFPXP2Z",
   "account": {
@@ -110,10 +111,11 @@ Copy code
     "noVotesCount": "00"
   }
 }
+```
+
 Vote Example
 
-json
-Copy code
+```
 {
   "pubkey": "7d1uoxa5DSQy2v9k1VxeETvbc89xJVSdByWTBNUfqvQp",
   "account": {
@@ -125,6 +127,9 @@ Copy code
     }
   }
 }
+```
+
+
 🔧 Configuration
 Before running the scripts, create a .env file in the node directory and add your DRPC endpoint:
 
