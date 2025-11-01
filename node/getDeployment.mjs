@@ -10,7 +10,7 @@ const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
 // const RPC_URL = 'http://realms-realms-c335.mainnet.rpcpool.com/258d3727-bb96-409d-abea-0b1b4c48af29/';
 // const RPC_URL = 'https://api.mainnet-beta.solana.com';
-const RPC_URL='https://go.getblock.us/86aac42ad4484f3c813079afc201451c';
+const RPC_URL='https://go.getblock.us/<API-KEY>';
 const connection = new Connection(RPC_URL, 'recent');
 
 const getAllProgramProposals = async (connection, programIdString) => {
