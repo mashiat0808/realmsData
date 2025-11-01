@@ -1,6 +1,5 @@
 # 🧩 Realms Data Retrieval (Solana DAO Governance)
 
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Active-lightgreen.svg)
 
@@ -84,8 +83,8 @@ votes.json — over 1 million individual vote records
 
 Each record links a proposal, voter, voteType, and voterWeight.
 
-🗂 Example Data Structure
-Deployment Example
+## 🗂 Example Data Structure
+**Deployment Example**
 
 ```
 {
@@ -99,7 +98,7 @@ Deployment Example
 ```
 
 
-Proposal Example
+**Proposal Example**
 
 ```
 {
@@ -113,7 +112,7 @@ Proposal Example
 }
 ```
 
-Vote Example
+**Vote Example**
 
 ```
 {
@@ -130,7 +129,7 @@ Vote Example
 ```
 
 
-🔧 Configuration
+### 🔧 Configuration
 Before running the scripts, create a .env file in the node directory and add your DRPC endpoint:
 
 ```
@@ -138,7 +137,7 @@ RPC_URL=https://lb.drpc.live/solana/<YOUR_API_KEY>
 ```
 You can modify batch sizes and output paths inside each .js file if needed.
 
-🧠 Notes
+### 🧠 Notes
 Run order matters: Always execute in this sequence →
 deployments.js → proposals.js → votes.js
 
@@ -148,7 +147,7 @@ Free-tier limits: DRPC may throttle requests; retry mechanisms are built-in
 
 For analysis: Process the generated data using the RealmsData.ipynb notebook
 
-🔗 Integration
+### 🔗 Integration
 The generated data is used in the DAO Governance Census project to:
 
 Clean and normalize data
@@ -161,14 +160,11 @@ deployment.csv, proposals.csv, and votes.csv
 For the analysis and unified schema, visit:
 ➡️ [DAO Governance Census 2025 Repository](https://github.com/mashiat0808/DAOGovernance/)
 
-🪪 License
-This project is released under the MIT License.
-Open for academic and non-commercial research use.
 
-🙌 Acknowledgments
+### 🙌 Acknowledgments
 This project is part of the DAO Governance Census 2025, conducted under the supervision of:
 Prof. Samer Hassan (Harvard University / UCM) and Prof. Javier Arroyo (UAH).
 
-🧭 Workflow Summary
+### 🧭 Workflow Summary
 deployments.js  →  proposals.js  →  votes.js  →  RealmsData.ipynb  →  Unified Census Dataset
 
