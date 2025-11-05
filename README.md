@@ -2,8 +2,30 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Active-lightgreen.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
 
 ---
+## 🧭 About
+
+The Realms Data Retrieval repository is part of the DAO Governance Census 2025, which aims to build a comprehensive, reproducible, and open dataset on decentralized governance.
+
+This repository specifically focuses on Solana’s Realms platform, extracting and structuring governance data that was previously inaccessible due to RPC and API limitations.
+
+## 🧩 Keywords
+
+`Blockchain` · `Decentralized Autonomous Organizations (DAOs)` · `Solana` · `Governance Data` · `Open Dataset` · `DAO Analytics`
+
+---
+
+## 👥 Authors & Contributors
+
+| Name                    | Affiliation                                            | 
+| ----------------------- | ------------------------------------------------------ | 
+| **Mashiat Amin Farin**  | University of Texas at Dallas                          | 
+| **Prof. Samer Hassan**  | Universidad Complutense de Madrid / Harvard University | 
+| **Prof. Javier Arroyo** | Universidad de Alcalá / Universidad Complutense de Madrid                      | 
+---
+
 
 ## 📘 Overview
 
@@ -160,10 +182,6 @@ deployment.csv, proposals.csv, and votes.csv
 For the analysis and unified schema, visit:
 ➡️ [DAO Governance Census 2025 Repository](https://github.com/mashiat0808/DAOGovernance/)
 
-
-### 🙌 Acknowledgments
-This project is part of the DAO Governance Census 2025, conducted under the supervision of:
-Prof. Samer Hassan (Harvard University / UCM) and Prof. Javier Arroyo (UAH).
 
 ### 🧭 Workflow Summary
 deployments.js  →  proposals.js  →  votes.js  →  RealmsData.ipynb  →  Unified Census Dataset
